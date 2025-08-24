@@ -1,7 +1,7 @@
 # Calories Burnt Prediction
 
 ## 🎯 Objective
-Build a regression-based machine learning model to predict the number of calories burnt during exercise, using personal and activity-related features.
+Build a regression-based machine learning model to predict the number of calories burnt during exercise, using biological measures.
 
 ## 📊 Dataset
 - Calories dataset (calories.csv)
