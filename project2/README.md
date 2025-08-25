@@ -1,4 +1,4 @@
-# 📈 Predicting Stock Price Direction using Support Vector Machines
+# Predicting Stock Price Direction using Support Vector Machines
 
 ## 🎯 Objective
 Build a machine learning model to predict whether a stock’s price will **rise or fall the next day** using historical price data.
