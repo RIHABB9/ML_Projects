@@ -16,7 +16,7 @@ The projecct uses the Titanic Survival Dataset from the Seaborn library. The tar
    The data is split into training and testing sets, with stratification to handle the slight class imbalance in the target variable.
 4. **Define Preprocessing**:
 
-   Separate pipelines for numerical and categorical features are created. A `ColumnTransformer` is used to combine these transformers into a single preprocessor.
+   Separate pipelines for numerical and categorical features are created. A `ColumnTransformer` is used to combine these transformers into a single column transformer.
 5. **Create Model Pipeline**:
 
    A `Pipeline` is created to combine the preprocessor with a machine learning classifier, initially a `RandomForestClassifier`.
